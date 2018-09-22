@@ -1,0 +1,7 @@
+#Sat Sep 22 19:27:05 CEST 2018
+base.0=C\:\\Android\\Camera-Overlay-Android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c0f5d7456ab1dcf536282980f8d126b79ce9193e
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Android\\Camera-Overlay-Android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_30cbb41b98e1212a54b0bcf4ea74b89be2b7731d\\classes.dex
+base.1=C\:\\Android\\Camera-Overlay-Android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_30cbb41b98e1212a54b0bcf4ea74b89be2b7731d
+file.0=C\:\\Android\\Camera-Overlay-Android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c0f5d7456ab1dcf536282980f8d126b79ce9193e\\classes.dex

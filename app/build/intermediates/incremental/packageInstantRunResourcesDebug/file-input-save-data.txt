@@ -1,0 +1,33 @@
+#Internal package file, do not edit.
+#Sat Sep 22 19:27:04 CEST 2018
+2.base=C\:\\Android\\Camera-Overlay-Android\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Android\\Camera-Overlay-Android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\compass_rose.png
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Android\\Camera-Overlay-Android\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Android\\Camera-Overlay-Android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_launcher.png
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Android\\Camera-Overlay-Android\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\Android\\Camera-Overlay-Android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+7.set=ANDROID_RESOURCE
+count=10
+0.file=C\:\\Android\\Camera-Overlay-Android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\rose.png
+5.base=C\:\\Android\\Camera-Overlay-Android\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=C\:\\Android\\Camera-Overlay-Android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\camera.png
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Android\\Camera-Overlay-Android\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Android\\Camera-Overlay-Android\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+9.set=ANDROID_RESOURCE
+9.file=C\:\\Android\\Camera-Overlay-Android\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+1.set=ANDROID_RESOURCE
+7.base=C\:\\Android\\Camera-Overlay-Android\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\Android\\Camera-Overlay-Android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Android\\Camera-Overlay-Android\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=C\:\\Android\\Camera-Overlay-Android\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Android\\Camera-Overlay-Android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu-v11\\main.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Android\\Camera-Overlay-Android\\app\\build\\intermediates\\res\\resources-debug.ap_
+9.base=C\:\\Android\\Camera-Overlay-Android\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Android\\Camera-Overlay-Android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\hands.png
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

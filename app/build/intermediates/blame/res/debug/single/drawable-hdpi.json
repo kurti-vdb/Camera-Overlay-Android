@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Android\\Camera-Overlay-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\camera.png",
+        "source": "C:\\Android\\Camera-Overlay-Android\\app\\src\\main\\res\\drawable-hdpi\\camera.png"
+    },
+    {
+        "merged": "C:\\Android\\Camera-Overlay-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\rose.png",
+        "source": "C:\\Android\\Camera-Overlay-Android\\app\\src\\main\\res\\drawable-hdpi\\rose.png"
+    },
+    {
+        "merged": "C:\\Android\\Camera-Overlay-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\compass_rose.png",
+        "source": "C:\\Android\\Camera-Overlay-Android\\app\\src\\main\\res\\drawable-hdpi\\compass_rose.png"
+    },
+    {
+        "merged": "C:\\Android\\Camera-Overlay-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Android\\Camera-Overlay-Android\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Android\\Camera-Overlay-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\hands.png",
+        "source": "C:\\Android\\Camera-Overlay-Android\\app\\src\\main\\res\\drawable-hdpi\\hands.png"
+    }
+]

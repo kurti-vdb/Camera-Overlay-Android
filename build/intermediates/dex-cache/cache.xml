@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\afoktb\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Android\Camera-Overlay-Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_322d7382c60d5d215b9b1012552303ccd71bc83e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Camera-Overlay-Android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f45c0722b612dcc3fb350ca1dbc344118e65ab5">
+        <dex dex="C:\Android\Camera-Overlay-Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c0f5d7456ab1dcf536282980f8d126b79ce9193e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Camera-Overlay-Android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03d9d6c2c27c1a0a8a22122f2aadc397392dd57">
+        <dex dex="C:\Android\Camera-Overlay-Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_30cbb41b98e1212a54b0bcf4ea74b89be2b7731d\classes.dex" />
+    </item>
+
+</items>
